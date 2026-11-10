@@ -1,0 +1,266 @@
+{
+  "book": {
+    "id": "evu-preintermediate-4e",
+    "title": "English Vocabulary in Use",
+    "subtitle": "Pre-intermediate and Intermediate, Fourth Edition",
+    "level": "A2-B1",
+    "publisher": "Cambridge University Press",
+    "edition": "4",
+    "description": "Vocabulary knowledge base sample."
+  },
+  "units": [
+    {
+      "id": "evu-u07",
+      "bookId": "evu-preintermediate-4e",
+      "number": 7,
+      "title": "Weather",
+      "category": "The world around us"
+    },
+    {
+      "id": "evu-u11",
+      "bookId": "evu-preintermediate-4e",
+      "number": 11,
+      "title": "People and character",
+      "category": "People"
+    },
+    {
+      "id": "evu-u20",
+      "bookId": "evu-preintermediate-4e",
+      "number": 20,
+      "title": "Health",
+      "category": "Daily life"
+    },
+    {
+      "id": "evu-u79",
+      "bookId": "evu-preintermediate-4e",
+      "number": 79,
+      "title": "Phrasal verbs",
+      "category": "Words and grammar"
+    }
+  ],
+  "items": [
+    {
+      "id": "evu-007-001",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u07",
+      "type": "collocation",
+      "headword": "heavy rain",
+      "partOfSpeech": "noun phrase",
+      "meaningEn": "a large amount of rain",
+      "meaningVi": "mưa lớn",
+      "examples": [
+        {
+          "en": "Heavy rain is expected this afternoon.",
+          "vi": "Dự kiến có mưa lớn vào chiều nay."
+        }
+      ],
+      "collocations": [
+        "heavy rain",
+        "light rain"
+      ],
+      "tags": [
+        "weather"
+      ],
+      "level": "A2"
+    },
+    {
+      "id": "evu-007-002",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u07",
+      "type": "collocation",
+      "headword": "strong wind",
+      "meaningEn": "wind moving with great force",
+      "meaningVi": "gió mạnh",
+      "examples": [
+        {
+          "en": "The strong wind damaged several trees.",
+          "vi": "Gió mạnh làm hư hại một số cây."
+        }
+      ],
+      "tags": [
+        "weather"
+      ],
+      "level": "A2"
+    },
+    {
+      "id": "evu-011-001",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u11",
+      "type": "vocabulary",
+      "headword": "reliable",
+      "partOfSpeech": "adjective",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaningEn": "able to be trusted or depended on",
+      "meaningVi": "đáng tin cậy",
+      "examples": [
+        {
+          "en": "She is a reliable colleague.",
+          "vi": "Cô ấy là một đồng nghiệp đáng tin cậy."
+        }
+      ],
+      "collocations": [
+        "reliable source",
+        "reliable information"
+      ],
+      "synonyms": [
+        "dependable",
+        "trustworthy"
+      ],
+      "antonyms": [
+        "unreliable"
+      ],
+      "tags": [
+        "people",
+        "character"
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "evu-011-002",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u11",
+      "type": "vocabulary",
+      "headword": "patient",
+      "partOfSpeech": "adjective",
+      "ipa": "/ˈpeɪʃnt/",
+      "meaningEn": "able to wait without becoming annoyed",
+      "meaningVi": "kiên nhẫn",
+      "examples": [
+        {
+          "en": "You need to be patient with beginners.",
+          "vi": "Bạn cần kiên nhẫn với người mới bắt đầu."
+        }
+      ],
+      "antonyms": [
+        "impatient"
+      ],
+      "tags": [
+        "people",
+        "character"
+      ],
+      "level": "A2"
+    },
+    {
+      "id": "evu-011-003",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u11",
+      "type": "vocabulary",
+      "headword": "confident",
+      "partOfSpeech": "adjective",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "meaningEn": "certain about your ability",
+      "meaningVi": "tự tin",
+      "examples": [
+        {
+          "en": "He feels confident about the presentation.",
+          "vi": "Anh ấy cảm thấy tự tin về bài thuyết trình."
+        }
+      ],
+      "tags": [
+        "people",
+        "character"
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "evu-020-001",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u20",
+      "type": "phrase",
+      "headword": "a sore throat",
+      "partOfSpeech": "noun phrase",
+      "ipa": "/ə sɔː θrəʊt/",
+      "meaningEn": "pain or irritation in the throat",
+      "meaningVi": "đau họng",
+      "examples": [
+        {
+          "en": "I've got a sore throat.",
+          "vi": "Tôi bị đau họng."
+        }
+      ],
+      "tags": [
+        "health",
+        "illness"
+      ],
+      "level": "A2"
+    },
+    {
+      "id": "evu-020-002",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u20",
+      "type": "vocabulary",
+      "headword": "headache",
+      "partOfSpeech": "noun",
+      "ipa": "/ˈhedeɪk/",
+      "meaningEn": "a pain in your head",
+      "meaningVi": "đau đầu",
+      "examples": [
+        {
+          "en": "I have a bad headache.",
+          "vi": "Tôi bị đau đầu nặng."
+        }
+      ],
+      "collocations": [
+        "bad headache",
+        "get a headache"
+      ],
+      "tags": [
+        "health",
+        "illness"
+      ],
+      "level": "A2"
+    },
+    {
+      "id": "evu-079-001",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u79",
+      "type": "phrasal_verb",
+      "headword": "give up",
+      "partOfSpeech": "phrasal verb",
+      "meaningEn": "to stop doing or trying something",
+      "meaningVi": "từ bỏ",
+      "examples": [
+        {
+          "en": "He gave up smoking.",
+          "vi": "Anh ấy đã bỏ thuốc lá."
+        }
+      ],
+      "tags": [
+        "phrasal verb"
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "evu-079-002",
+      "bookId": "evu-preintermediate-4e",
+      "unitId": "evu-u79",
+      "type": "phrasal_verb",
+      "headword": "look after",
+      "partOfSpeech": "phrasal verb",
+      "meaningEn": "to take care of someone or something",
+      "meaningVi": "chăm sóc",
+      "examples": [
+        {
+          "en": "She looks after her younger brother.",
+          "vi": "Cô ấy chăm sóc em trai mình."
+        }
+      ],
+      "tags": [
+        "phrasal verb"
+      ],
+      "level": "A2"
+    }
+  ],
+  "relations": [
+    {
+      "sourceId": "evu-011-001",
+      "type": "antonym",
+      "label": "unreliable"
+    },
+    {
+      "sourceId": "evu-011-002",
+      "type": "antonym",
+      "label": "impatient"
+    }
+  ]
+}
